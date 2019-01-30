@@ -1,3 +1,4 @@
+#_*_ coding:utf-8 _*_
 class Game:
     def __init__(self):
         print("Welcome In Muhammad Game.....(^_^)")
@@ -5,6 +6,7 @@ class Game:
         print('Press[1] : Play Even Odd Game')
         print('Press[2] : Play Sum Average Game')
         print('Press[3] : Play Mult Table Game')
+        print('Press quit To End The Game')
         self.Choose_Game()
 
     
